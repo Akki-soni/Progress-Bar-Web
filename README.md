@@ -44,7 +44,7 @@
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <https://github.com/Akki-soni/Text-to-Speech-Converter.git>
+git clone <https://github.com/Akki-soni/Progress-Bar-Web.git>
 cd Progress-bar
 open index.html
 ```
@@ -59,7 +59,7 @@ open index.html
 
 ## 🌟 Screenshots
 
-![Progress-bar Screenshot](/images/T-S_Screenshot.png)
+![Progress-bar Screenshot](P-B_Screenshot.png)
 
 ## 🔗 Live Demo
 
@@ -85,7 +85,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akki_214g/)
 
 <a href="">
-  <img src="/images/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+  <img src="/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
 </a>
 
 ## Thank You &#10084;
