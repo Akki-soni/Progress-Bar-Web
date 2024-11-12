@@ -63,7 +63,7 @@ open index.html
 
 ## 🔗 Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://progress-bar-web.vercel.app/)
 
 ## 🤝 Contributing
 
